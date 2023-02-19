@@ -1,5 +1,5 @@
 # FridgeTinder
-Course project for HTI.110-2022-2023-1 Human-Technology Interaction 2: Design
+Course project for HTI.110-2022-2023-1 Human-Technology Interaction 2: Design.
 Hi-Fi Mobile wireframes created by Mikko Perälä and Sara Marjakangas (2022).
 
 (Proper introduction & explanations coming soon!)
